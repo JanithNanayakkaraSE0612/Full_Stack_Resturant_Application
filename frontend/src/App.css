@@ -204,13 +204,13 @@ nav svg {
   display: none;
 }
 .heroSection .container .banner:first-child .imageBox {
-  width: 80%;
+  width: 50%;
 }
 .heroSection .container .banner:last-child .imageBox {
   width: 100%;
 }
 .heroSection .container .banner .imageBox img {
-  width: 300px;
+  width: 400px;
   height: 385px;
 }
 .heroSection .container .banner:last-child .imageBox {
