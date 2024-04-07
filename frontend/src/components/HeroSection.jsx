@@ -16,11 +16,9 @@ const HeroSection = () => {
             </div>
             <div className="textAndLogo">
               <div className="textWithSvg">
-                <h1 className="title">Food</h1>
-                <h1 className="title dishes_title">Dishes</h1>
+                <h1 className="title">Coffe &</h1>
                 <img src="./threelines.svg" alt="threelines" />
               </div>
-              {/* <img className="logo" src="" alt="logo" /> */}
             </div>
           </div>
         </div>
@@ -28,7 +26,7 @@ const HeroSection = () => {
           <div className="imageBox">
             <img src="hero2.png" alt="hero" />
           </div>
-          <h1 className="title dishes_title">Dishes</h1>
+          <h1 className="title dishes_title"> Dishes</h1>
         </div>
       </div>
     </section>
