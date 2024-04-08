@@ -210,8 +210,10 @@ nav svg {
   width: 100%;
 }
 .heroSection .container .banner .imageBox img {
+  padding-right: 20px;
+  padding-left: 20px;
   width: 400px;
-  height: 385px;
+  height: 365px;
 }
 .heroSection .container .banner:last-child .imageBox {
   text-align: end;
